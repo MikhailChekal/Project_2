@@ -1,0 +1,4 @@
+C:/Users/misha/CLionProjects/Project_2/cmake-build-debug/CMakeFiles/main.cpp.dir
+C:/Users/misha/CLionProjects/Project_2/cmake-build-debug/CMakeFiles/Project_2.dir
+C:/Users/misha/CLionProjects/Project_2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/misha/CLionProjects/Project_2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
