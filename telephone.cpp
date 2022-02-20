@@ -80,6 +80,7 @@ int main(){
             full_name = phone_book.find(surname_to_delete);
             phone_book.erase(full_name);
             std::remove(vect.begin(),vect.end(), std::make_pair(full_name->first, full_name->second));
+            // тут что-то неправильно работает при удалении из вектора
         } else if (n == 0){
             exit(0);
         }
